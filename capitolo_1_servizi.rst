@@ -17,6 +17,7 @@ implica anche un’adeguata semplificazione dei processi interni alle
 PA, coordinata dal Responsabile della Transizione al Digitale, con il
 necessario supporto di efficienti procedure digitali.
 
+
 Occorre quindi agire su più livelli e migliorare la capacità delle
 Pubbliche Amministrazioni di generare ed erogare servizi di qualità
 attraverso:
